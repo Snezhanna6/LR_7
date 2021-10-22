@@ -1,0 +1,17 @@
+[	{
+		"patient_id" : "1",
+		"test_type" : "IgG",
+		"date" : "2021-01-21",
+		"test_accuracy" : "quality",
+		"laboratory_id" : "1",
+		"result" : "positive"
+		},
+
+		{
+		"patient_id" : "2",	
+		"test_type" : "IgM",
+		"date" : "2021-01-22",
+		"test_accuracy" : "quantitative",
+		"laboratory_id" : "2",
+		"result" : "100"
+		}]

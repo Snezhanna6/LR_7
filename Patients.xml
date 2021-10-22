@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <patients>
+    <patient>
+    	<patient_id>1</patient_id>
+        <surname>Ivanov</surname> 
+        <name>Ivan</name>
+        <patronymic>Ivanovich</patronymic>
+        <birthday>2000-01-01</birthday>
+        <insurancepolicynumber>1213141516</insurancepolicynumber>
+    </patient>
+    
+    <patient>
+    	<patient_id>2</patient_id>
+        <surname>Petrov</surname> 
+        <name>Petr</name>
+        <patronymic>Petrovich</patronymic>
+        <birthday>2001-02-20</birthday>
+        <insurancepolicynumber>9834762867</insurancepolicynumber>
+    </patient>
+</patients>

@@ -1,0 +1,36 @@
+{"patients" : [
+	{
+	"patient_id" : "1",
+	"surname" : "Ivanov",
+	"name" : "Ivan",
+	"patronymic" : "Ivanovich",
+	"birthday" : "2000-01-01",
+	"insurancepolicynumber" : "1213141516",
+	"test" : [
+		{
+		"test_type" : "IgG",
+		"date" : "2021-01-21",
+		"test_accuracy" : "quality",
+		"laboratory_id" : "1",
+		"result" : "positive"
+		}
+	]
+	},
+	{
+	"patient_id" : "2",
+	"surname" : "Petrov",
+	"name" : "Petr",
+	"patronymic" : "Petrovich",
+	"birthday" : "2001-02-20",
+	"insurancepolicynumber" : "9834762867",
+	"test" : [
+		{
+		"test_type" : "IgM",
+		"date" : "2021-01-22",
+		"test_accuracy" : "quantitative",
+		"laboratory_id" : "2",
+		"result" : "100"
+		}
+	]
+	}
+]	}
